@@ -9,7 +9,7 @@ Version:	1.0
 Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
-Url:		http://www.gnu.org/software/libunistring/
+Url:		https://www.gnu.org/software/libunistring/
 Source0:	http://ftp.gnu.org/gnu/libunistring/libunistring-%{version}.tar.xz
 Patch0:		libunistring-1.0-attribute-dealloc-clang.patch
 BuildRequires:	slibtool
